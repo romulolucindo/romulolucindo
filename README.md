@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Romulo!
 
-🚀 **Entusiasta de tecnologia** explorando e aprendendo um pouco mais sobre **JavaScript** a cada dia.  
-💡 Interessado em **desenvolvimento web** e lógica de programação.  
-📌 Compartilhando meus projetos no **GitHub** enquanto aprimoro minhas habilidades.  
+🚀 Entusiasta de tecnologia, **aprimorando** meus conhecimentos em **JavaScript** a cada dia.<br>
+💡 Apaixonado por **desenvolvimento**, sempre buscando novos desafios e aprendizados.<br>
+📌 Compartilhando meus projetos no GitHub enquanto continuo evoluindo minhas habilidades.<br>
 
 ## 🔧 Focado atualmente nessas Tecnologias e Ferramentas:
 <div display "inline">
