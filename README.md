@@ -5,17 +5,20 @@
 📌 Compartilhando meus projetos no GitHub enquanto continuo evoluindo minhas habilidades.<br>
 
 ## 🔧 Focado atualmente nessas Tecnologias e Ferramentas:
-<div display "inline">
-  <img widht="40" height ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />  
-  
-  </div> 
+<div style="display:inline;">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 <br>
-  <div>
-    <a href="https://github.com/romulolucindo">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolucindo&layout=compact&langs_count=7&theme=midnight-purple"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=romulolucindo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </div>
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: center;">
+
+  <a href="https://github.com/romulolucindo" target="_blank" rel="noopener noreferrer">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolucindo&layout=compact&langs_count=7&theme=midnight-purple" alt="Top Linguagens"/>
+  </a>
+
+  <a href="https://github.com/romulolucindo" target="_blank" rel="noopener noreferrer">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=romulolucindo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
+
+</div>
