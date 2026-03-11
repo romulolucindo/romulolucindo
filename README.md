@@ -6,9 +6,10 @@
 
 ## 🔧 Focado atualmente nessas Tecnologias e Ferramentas:
 <div style="display:inline;">
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  
 </div>
 <br>
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: center;">
